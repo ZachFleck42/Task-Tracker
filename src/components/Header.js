@@ -13,7 +13,6 @@ const Header = (props) => {
     )
 }
 
-
 // CSS in JS
 // const headingStyle = {
 //     color: 'red',
